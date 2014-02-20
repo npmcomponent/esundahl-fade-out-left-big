@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-fade-out-left-big",
+  "description": "fade-out-left-big animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "fade-out-left-big"
+  ],
+  "styles": [
+    "fade-out-left-big.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
